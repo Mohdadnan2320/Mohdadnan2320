@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a passionate Full Stack Developer with expertise in MERN stack (MongoDB, Express.js, React.js, Node.js). I have hands-on experience in building scalable web applications, designing RESTful APIs, and managing user sessions with JWT.<br><br>Currently, I’m working on a fintech application, handling both backend and frontend development, with a strong focus on security, performance, and seamless user experience.<br><br>Previously, I developed an AI-based user matching, an AI-powered Python tutor for kids, and a responsive dashboard using Next.js and Tailwind CSS.<br><br>
+I’m an experienced Full Stack Developer with expertise in MERN stack (MongoDB, Express.js, React.js, Node.js). I have hands-on experience in building scalable web applications, designing RESTful APIs, and managing user sessions with JWT.<br><br>Currently, I’m working on a fintech application, handling both backend and frontend development, with a strong focus on security, performance, and seamless user experience.<br><br>Previously, I developed an AI-based user matching, an AI-powered Python tutor for kids, and a responsive dashboard using Next.js and Tailwind CSS.<br><br>
 
 
 ## 🌐 Socials:
