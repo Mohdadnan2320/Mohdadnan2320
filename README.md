@@ -19,7 +19,7 @@ My core expertise lies in the **MERN stack (MongoDB, Express.js, React.js, Node.
 - Performance tuning for **B2B platforms**
 
 ## 🔗 Portfolio
-- **Website:** https://portfolio-website-2025.netlify.app/
+- **Website:** [portfolio-website-2025.netlify.app](https://portfolio-website-2025.netlify.app/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/themohdadnan/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/mohaadna/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohdadnan2320@gmail.com) 
