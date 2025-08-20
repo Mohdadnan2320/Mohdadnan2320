@@ -1,6 +1,25 @@
 # 💫 About Me:
-I am an experienced Full Stack Developer with expertise in MERN stack (MongoDB, Express.js, React.js, Node.js). I have hands-on experience in building scalable web applications, designing RESTful APIs, and managing user sessions with JWT.<br><br>Currently, I’m working on a fintech application, handling both backend and frontend development, with a strong focus on security, performance, and seamless user experience.<br><br>Previously, I developed an AI-based user matching, an AI-powered Python tutor for kids, and a responsive dashboard using Next.js and Tailwind CSS.<br><br>
+I’m an **experienced, motivated, and problem-solving Full Stack Developer** passionate about building secure, scalable, and user-friendly web applications.  
+My core expertise lies in the **MERN stack (MongoDB, Express.js, React.js, Node.js)** along with **Next.js and PostgreSQL**.
 
+## 💻 What I Do
+- Build **end-to-end web apps** with **role-based access control (RBAC)** and **JWT + refresh token** authentication.  
+- Develop **dashboards/admin panels** with real-time CRUD flows and state management (**Redux Toolkit**).  
+- Design & integrate **RESTful APIs**, focusing on performance, security, and maintainability.  
+- Apply strong **problem-solving skills** to debug complex issues and optimize systems for performance.  
+
+## 🚀 Experience Highlights
+- **Zyelum SCM Solutions** — B2B web application with **role-based dashboards**, secure auth, and scalable CRUD using **Next.js, PostgreSQL, Redux, JWT**.  
+- **Techbairn** — Full-stack contributions across **React/Next.js** frontends and **Node.js** backends; performance and security improvements.  
+- Projects include an **AI tutor for kids**, fintech features, and responsive analytics dashboards.
+
+## 🌟 Currently Exploring
+- Advanced **Next.js** patterns  
+- **Secure auth flows** (refresh tokens, RBAC)  
+- Performance tuning for **B2B platforms**
+
+## 🔗 Portfolio
+- **Website:** https://portfolio-website-2025.netlify.app/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/themohdadnan/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/mohaadna/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohdadnan2320@gmail.com) 
