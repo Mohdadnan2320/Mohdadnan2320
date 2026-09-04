@@ -59,21 +59,13 @@ I'm actively open to opportunities as a **Software Development Engineer (SDE)**,
 - Implemented **JWT authentication**, **role-based authorization**, and a **microservices architecture**
 - Engineered flexible pricing workflows: single, twin-sharing, extra-person, and child pricing
 
-### 👨‍💻 LittleCoder — Interactive Coding Learning Platform
-**Tech Stack:** MERN Stack · React.js · Node.js · Express.js · MongoDB
-
-- Built a full-stack **interactive coding education platform** with a responsive React interface
-- Developed database-driven features using **Node.js, Express.js, and MongoDB**
-
----
-
 ## 🎓 Education
 
-| Qualification | Institution | Duration
-|---|---|---|---|
-| PGCP-AC — Advanced Computing | C-DAC Mumbai | Feb 2026 – Aug 2026 
-| Master of Computer Applications (MCA) | VIT Bhopal | 2023 – 2025 
-| Bachelor of Computer Applications (BCA) | Makhanlal Chaturvedi National University, Bhopal | 2020 – 2023
+| Qualification | Institution | Duration |
+|---|---|---|
+| PGCP-AC — Advanced Computing | C-DAC Mumbai | Feb 2026 – Aug 2026 |
+| Master of Computer Applications (MCA) | VIT Bhopal | 2023 – 2025 |
+| Bachelor of Computer Applications (BCA) | Makhanlal Chaturvedi National University, Bhopal | 2020 – 2023 |
 
 ## 📜 Certifications
 - **Full Stack Web Development** — Techbairn
