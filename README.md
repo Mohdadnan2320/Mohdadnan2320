@@ -69,11 +69,11 @@ I'm actively open to opportunities as a **Software Development Engineer (SDE)**,
 
 ## 🎓 Education
 
-| Qualification | Institution | Duration | Score |
+| Qualification | Institution | Duration
 |---|---|---|---|
-| PGCP-AC — Advanced Computing | C-DAC Mumbai | Feb 2026 – Aug 2026 | — |
-| Master of Computer Applications (MCA) | VIT Bhopal | 2023 – 2025 | 83.3% |
-| Bachelor of Computer Applications (BCA) | Makhanlal Chaturvedi National University, Bhopal | 2020 – 2023 | 85.03% |
+| PGCP-AC — Advanced Computing | C-DAC Mumbai | Feb 2026 – Aug 2026 
+| Master of Computer Applications (MCA) | VIT Bhopal | 2023 – 2025 
+| Bachelor of Computer Applications (BCA) | Makhanlal Chaturvedi National University, Bhopal | 2020 – 2023
 
 ## 📜 Certifications
 - **Full Stack Web Development** — Techbairn
